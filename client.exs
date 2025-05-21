@@ -7,20 +7,20 @@ defmodule Client do
     IO.puts("#{sala}")
 
     IO.puts("Conectando al servidor...")
-    case Node.connect(@node) do
+    case Node.connect(@node) do #conecta al servidor
       true -> IO.puts("Felizmente conectado al server!")
       false -> IO.puts("Error en la conexion!")
     end
     send({:server, @node}, {:ingresar, sala, {nombre, node()}})
 
-    spawn(fn ->
-      Process.register(self(), :cliente)
+    spawn(fn -> #crea procesos constantes que nunca se acaban
+      Process.register(self(), :cliente) #crea un proceso del cliente
       escuchar_mensajes()
     end)
     enviar_mensaje(sala, nombre)
   end
 
-  defp escuchar_mensajes do
+  defp escuchar_mensajes do #espera mensajes constantemente del servidor
     receive do
       {:mensaje_recibido, sala, mensaje} ->
         IO.puts("[#{sala}] #{mensaje}")
@@ -62,13 +62,13 @@ defmodule Client do
     end
   end
 
-  def inicio_string(mensaje) do
+  def inicio_string(mensaje) do #retorna el inicio de el string es decir un comando
     mensaje
     |> String.split(" ")
     |> hd()
   end
 
-  def final_string(mensaje) do
+  def final_string(mensaje) do #retorna el final del string es decir la parte extra del comando
     mensaje
     |> String.split(" ")
     |> tl()
