@@ -28,6 +28,8 @@ defmodule Client do
       {:sala_vacia} ->
         IO.puts("No hay personas en la sala")
         escuchar_mensajes()
+      {:historial, contenido} ->
+        IO.puts("📜 Historial de la sala:\n#{contenido}")
     end
   end
 
@@ -52,6 +54,8 @@ defmodule Client do
             IO.puts("En la sala se encuentran: #{inspect(lista)}")
             enviar_mensaje(sala, nombre)
         end
+      "/history" ->
+        send({:server, @node}, {:historial, sala, self()})
       _ ->
         IO.puts("Comando no reconocido ")
         enviar_mensaje(sala, nombre)

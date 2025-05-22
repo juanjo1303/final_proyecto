@@ -11,7 +11,7 @@
     defp loop(salas) do #esto es lo que recibe y le da la logica a funcionalidades como join leave history etc etc
       receive do
         {:ingresar, sala, {id_cliente, nodo_cliente}} ->
-    salas =
+        salas =
       if verificar_estado_sala(salas, id_cliente) do #verifica que la sala ya este creada o no
         sala_anterior = encontrar_sala(salas, id_cliente, sala) #retorna la sala que esta saliendo el usuario para entrar a otra
         IO.puts("#{id_cliente} ha salido de la sala #{sala_anterior}")
@@ -20,9 +20,9 @@
         salas
       end
 
-    IO.puts("#{id_cliente} ingresó a la sala #{sala}")
-    clave = {sala, id_cliente}
-    actualizar_salas =
+      IO.puts("#{id_cliente} ingresó a la sala #{sala}")
+      clave = {sala, id_cliente}
+      actualizar_salas =
       Map.update(salas, clave, [nodo_cliente], fn lista -> #actualiza la lista de salas con una nueva sala
         if nodo_cliente in lista do
           lista
@@ -31,13 +31,14 @@
         end
       end)
 
-  IO.inspect(actualizar_salas, label: "Estado actual de salas")
-  loop(actualizar_salas)
+      IO.inspect(actualizar_salas, label: "Estado actual de salas")
+      loop(actualizar_salas)
 
         {:mensaje, sala, mensaje, {enviar_id, enviar_nodo}} ->
           if verificar_estado_sala(salas, enviar_id) == true do #confirma que haya una sala creada con el mismo nombre
             IO.puts("#{enviar_id} enviado a #{sala}: #{mensaje}")
             transmitir(salas, sala, mensaje, enviar_nodo)
+            guardar_mensaje(sala, enviar_id, mensaje) #guarda el mensaje en un archivos
           else
             IO.puts("Usuario #{enviar_id} intentó enviar mensaje a sala #{sala} sin estar registrado.") #envia mensaje si la persona no se
             send({:cliente, enviar_nodo}, {:error, :no_autorizado})                                     #encuentra en ninguna sala
@@ -60,6 +61,13 @@
 
           send(pid_cliente, {:tupla, clientes})
           IO.inspect(salas, label: "Estado actual de salas")
+          loop(salas)
+
+        {:historial, sala, pid_cliente} ->
+          historial =
+
+          obtener_historial(sala)
+          send(pid_cliente, {:historial, historial})
           loop(salas)
         end
       end
@@ -102,16 +110,16 @@
       end
     end
 
-  def encontrar_sala(salas, id, sala_actual) do
-    salas
-    |> Map.keys()
-    |> Enum.find_value(fn
-      {otra_sala, id_usuario} when id_usuario == id and otra_sala != sala_actual -> otra_sala #encuentra las otras salas del usuario
-      _ -> nil
-    end)
-  end
+    def encontrar_sala(salas, id, sala_actual) do
+      salas
+      |> Map.keys()
+      |> Enum.find_value(fn
+        {otra_sala, id_usuario} when id_usuario == id and otra_sala != sala_actual -> otra_sala #encuentra las otras salas del usuario
+        _ -> nil
+      end)
+    end
 
-  def verificar_estado_sala(salas, id) do
+    def verificar_estado_sala(salas, id) do
       estado =
       salas
       |> Map.keys()
@@ -120,6 +128,22 @@
         _ -> false
       end)
       estado
+    end
+
+    defp guardar_mensaje(sala, id_usuario, mensaje) do
+      File.mkdir_p!("data")  # Asegura que exista la carpeta "data"
+      ruta = "data/#{sala}.txt"
+      entrada = "[#{id_usuario}] #{mensaje}\n"
+      File.write(ruta, entrada, [:append])
+    end
+
+    defp obtener_historial(sala) do
+      ruta = "data/#{sala}.txt"
+
+      case File.read(ruta) do
+        {:ok, contenido} -> contenido
+        {:error, _} -> "📭 No hay historial disponible."
+      end
     end
   end
 

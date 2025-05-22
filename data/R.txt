@@ -1,0 +1,2 @@
+[koko] koko: buenas
+[koko] koko: /exit
