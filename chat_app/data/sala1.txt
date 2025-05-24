@@ -1,0 +1,113 @@
+[asd] asd ha ingresado a la sala
+[si] si ha ingresado a la sala
+[si] hola
+[salomon] salomon ha ingresado a la sala
+[salomon] /exit
+[salomon] /exit
+[salomon] salomon ha ingresado a la sala
+[ads] Acceso denegado a la sala
+[ads] Acceso denegado a la sala
+[salomon] asd
+[salomon] asd
+[salomon] asd
+[salomon] salomon ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[lui] lui ha ingresado a la sala
+[asd] asd ha ingresado a la sala
+[asd] asd ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] hola
+[nico] asd
+[lui] lui ha ingresado a la sala
+[lui] asd
+[lui] asd
+[nico] asd
+[nico] asd
+[nico] /salir
+[nico] nico ha salido de la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] asd
+[lui] 
+[lui] asdsad
+[nico] nico ha ingresado a la sala
+[nico] asd
+[lui] asd
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[asd] asd ha ingresado a la sala
+[si] si ha ingresado a la sala
+[si] sd
+[si] asd
+[si] asd
+[si] si ha salido de la sala
+[si] si ha ingresado a la sala
+[si] asd
+[si] asd
+[si] ads
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] asd
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] nico ha salido de la sala
+[nico] nico ha ingresado a la sala
+[nico] 123
+[nico] asd
+[nico] ads
+[lui] lui ha ingresado a la sala
+[lui] asd
+[lui] sad
+[lui] asd
+[lui] asd
+[lui] sd
+[123] 123 ha ingresado a la sala
+[4321] 4321 ha ingresado a la sala
+[1] 1 ha ingresado a la sala
+[4321] 
+[4321] sada
+[4321] d
+[4321] a
+[4321] aads
+[4321] 
+[123] 
+[123] asd
+[123] a
+[123] 
+[]  ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[123] 123 ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] nico ha salido de la sala
+[nico] sda
+[nico] asd
+[nico] No se pudo ingresar. La sala no existe.
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] asd
+[nico] asd
+[123] No se pudo ingresar. La sala no existe.
+[nico] No se pudo ingresar. La sala no existe.
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] asd
+[nico] sad
+[nico] asd
+[123] asd
+[123] ad
+[123] ad
+[123] aa
+[123] sad
+[123] sad
+[123] ad
+[nico] nico ha ingresado a la sala
+[nico] /salir
+[nico] nico ha salido de la sala

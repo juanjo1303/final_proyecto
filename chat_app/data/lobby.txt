@@ -1,0 +1,30 @@
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] No se pudo ingresar. La sala no existe.
+[nico] nico ha ingresado a la sala
+[123] 123 ha ingresado a la sala
+[123] asd
+[123] sad
+[123] asd
+[123] /salir
+[123] 123 ha salido de la sala
+[123] 123 ha ingresado a la sala
+[nico] asd
+[nico] sad
+[nico] sda
+[nico] asd
+[nico] asd
+[nico] sad
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[123] 123 ha ingresado a la sala
+[123] No se pudo ingresar. La sala no existe.
+[nico] No se pudo ingresar. La sala no existe.
+[123] No se pudo ingresar. La sala no existe.
+[nico] nico ha ingresado a la sala
+[nico] asd
+[123] 123 ha ingresado a la sala
+[123] asd
+[123] ads
+[nico] nico ha ingresado a la sala
+[nico] No se pudo ingresar. La sala no existe.

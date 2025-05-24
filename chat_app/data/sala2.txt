@@ -1,0 +1,40 @@
+[salomon] salomon ha ingresado a la sala
+[ads] Acceso denegado a la sala
+[nico] nico ha ingresado a la sala
+[lui] lui ha ingresado a la sala
+[lui] sda
+[lui] ads
+[lui] dsa
+[nico] nico ha ingresado a la sala
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] ads
+[nico] nico ha ingresado a la sala
+[1] 1 ha ingresado a la sala
+[1] sad
+[1] asd
+[1] sad
+[nico] No se pudo ingresar. La sala no existe.
+[nico] nico ha ingresado a la sala
+[nico] sad
+[nico] asd
+[nico] ads
+[123] 123 ha ingresado a la sala
+[123] /salir sala2
+[123] 123 ha salido de la sala
+[123] 123 ha ingresado a la sala
+[nico] /salir
+[nico] nico ha salido de la sala
+[123] sad
+[123] asd
+[nico] nico ha ingresado a la sala
+[nico] asd
+[nico] asd
+[nico] asd
+[123] sad
+[123] asd
+[123] sad
+[123] 123 ha salido de la sala
+[nico] sda
+[nico] sdas
+[nico] dsadsa

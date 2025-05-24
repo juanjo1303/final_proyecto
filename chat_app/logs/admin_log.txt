@@ -1,0 +1,338 @@
+[2025-05-24 04:11:31.627000Z] asd ingresó a la sala sala1
+[2025-05-24 04:11:31.653000Z] [sala1] asd: asd ha ingresado a la sala
+[2025-05-24 04:11:31.655000Z] No hay clientes en la sala sala1
+[2025-05-24 04:12:11.709000Z] si ingresó a la sala sala1
+[2025-05-24 04:12:11.709000Z] [sala1] si: si ha ingresado a la sala
+[2025-05-24 04:12:12.858000Z] [sala1] si: hola
+[2025-05-24 05:38:20.072000Z] salomon ingresó a la sala sala1
+[2025-05-24 05:38:20.079000Z] [sala1] salomon: salomon ha ingresado a la sala
+[2025-05-24 05:38:20.080000Z] No hay clientes en la sala sala1
+[2025-05-24 05:38:50.073000Z] [sala1] salomon: /exit
+[2025-05-24 05:38:53.924000Z] [sala1] salomon: /exit
+[2025-05-24 05:38:58.603000Z] salomon ha salido de la sala 
+[2025-05-24 05:38:58.604000Z] salomon ingresó a la sala sala1
+[2025-05-24 05:38:58.605000Z] [sala1] salomon: salomon ha ingresado a la sala
+[2025-05-24 05:39:46.764000Z] [sala1] ads: Acceso denegado a la sala
+[2025-05-24 05:39:56.950000Z] [sala1] ads: Acceso denegado a la sala
+[2025-05-24 05:40:10.500000Z] [sala1] salomon: asd
+[2025-05-24 05:40:10.936000Z] [sala1] salomon: asd
+[2025-05-24 05:40:11.424000Z] [sala1] salomon: asd
+[2025-05-24 05:40:14.047000Z] salomon ha salido de la sala 
+[2025-05-24 05:40:14.048000Z] salomon ingresó a la sala sala1
+[2025-05-24 05:40:14.048000Z] [sala1] salomon: salomon ha ingresado a la sala
+[2025-05-24 05:40:25.166000Z] salomon ha salido de la sala sala1
+[2025-05-24 05:40:25.167000Z] salomon ingresó a la sala sala2
+[2025-05-24 05:40:25.167000Z] [sala2] salomon: salomon ha ingresado a la sala
+[2025-05-24 05:40:25.168000Z] No hay clientes en la sala sala2
+[2025-05-24 05:40:33.885000Z] [sala2] ads: Acceso denegado a la sala
+[2025-05-24 06:05:32.255000Z] nico ingresó a la sala sala1
+[2025-05-24 06:05:32.261000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 06:05:32.262000Z] No hay clientes en la sala sala1
+[2025-05-24 06:06:28.508000Z] lui ingresó a la sala sala1
+[2025-05-24 06:06:28.509000Z] [sala1] lui: lui ha ingresado a la sala
+[2025-05-24 06:08:09.868000Z] nico ingresó a la sala 
+[2025-05-24 06:08:09.874000Z] [] nico: nico ha ingresado a la sala
+[2025-05-24 06:08:09.875000Z] No hay clientes en la sala 
+[2025-05-24 06:19:47.913000Z] lui ha creado la sala sala1
+[2025-05-24 06:24:16.864000Z] lui ha creado la sala sala1
+[2025-05-24 06:27:21.359000Z] lui ha creado la sala sala1
+[2025-05-24 06:39:55.558000Z] nico ha creado la sala sala1
+[2025-05-24 06:43:02.028000Z] nico ha creado la sala sala1
+[2025-05-24 06:50:03.802000Z] asd ingresó a la sala sala1
+[2025-05-24 06:50:03.803000Z] [sala1] asd: asd ha ingresado a la sala
+[2025-05-24 06:51:13.651000Z] asd ha salido de la sala 
+[2025-05-24 06:51:13.652000Z] asd ingresó a la sala sala1
+[2025-05-24 06:51:13.653000Z] [sala1] asd: asd ha ingresado a la sala
+[2025-05-24 06:55:25.883000Z] nico ha salido de la sala 
+[2025-05-24 06:55:25.884000Z] nico ingresó a la sala sala1
+[2025-05-24 06:55:25.884000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:08:09.838000Z] nico ha salido de la sala 
+[2025-05-24 07:08:09.840000Z] nico ingresó a la sala sala1
+[2025-05-24 07:08:09.841000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:08:11.212000Z] [sala1] nico: hola
+[2025-05-24 07:08:12.610000Z] [sala1] nico: asd
+[2025-05-24 07:08:27.418000Z] lui ingresó a la sala sala1
+[2025-05-24 07:08:27.419000Z] [sala1] lui: lui ha ingresado a la sala
+[2025-05-24 07:08:28.593000Z] [sala1] lui: asd
+[2025-05-24 07:08:29.131000Z] [sala1] lui: asd
+[2025-05-24 07:08:32.620000Z] [sala1] nico: asd
+[2025-05-24 07:08:32.987000Z] [sala1] nico: asd
+[2025-05-24 07:11:00.171000Z] [sala1] nico: /salir
+[2025-05-24 07:11:19.110000Z] [sala1] nico: nico ha salido de la sala
+[2025-05-24 07:11:38.318000Z] nico ingresó a la sala sala1
+[2025-05-24 07:11:38.319000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:11:54.835000Z] nico ha salido de la sala 
+[2025-05-24 07:11:54.837000Z] nico ingresó a la sala sala1
+[2025-05-24 07:11:54.838000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:11:56.516000Z] [sala1] nico: asd
+[2025-05-24 07:11:56.951000Z] [sala1] nico: asd
+[2025-05-24 07:11:58.380000Z] [sala1] lui: 
+[2025-05-24 07:11:58.735000Z] [sala1] lui: asdsad
+[2025-05-24 07:16:36.684000Z] lui ha creado la sala sala1
+[2025-05-24 07:16:45.990000Z] nico ingresó a la sala sala1
+[2025-05-24 07:16:45.990000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:16:47.196000Z] [sala1] nico: asd
+[2025-05-24 07:16:49.336000Z] [sala1] lui: asd
+[2025-05-24 07:18:39.676000Z] nico ha creado la sala sala1
+[2025-05-24 07:18:43.490000Z] nico ha salido de la sala 
+[2025-05-24 07:18:43.492000Z] nico ingresó a la sala sala1
+[2025-05-24 07:18:43.492000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:18:52.903000Z] lui ha creado la sala sala1
+[2025-05-24 07:19:13.904000Z] nico ingresó a la sala sala1
+[2025-05-24 07:19:13.905000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:20:16.728000Z] lui ha creado la sala sala1
+[2025-05-24 07:20:21.713000Z] nico ingresó a la sala sala1
+[2025-05-24 07:20:21.714000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 07:44:41.251000Z] asd ingresó a la sala sala1
+[2025-05-24 07:44:41.258000Z] [sala1] asd: asd ha ingresado a la sala
+[2025-05-24 07:44:41.259000Z] No hay clientes en la sala sala1
+[2025-05-24 07:45:05.972000Z] si ingresó a la sala sala1
+[2025-05-24 07:45:05.972000Z] [sala1] si: si ha ingresado a la sala
+[2025-05-24 07:45:06.937000Z] [sala1] si: sd
+[2025-05-24 07:45:07.572000Z] [sala1] si: asd
+[2025-05-24 07:45:08.127000Z] [sala1] si: asd
+[2025-05-24 07:45:12.362000Z] [sala1] si: si ha salido de la sala
+[2025-05-24 07:45:16.822000Z] si ingresó a la sala sala1
+[2025-05-24 07:45:16.822000Z] [sala1] si: si ha ingresado a la sala
+[2025-05-24 07:45:36.333000Z] [sala1] si: asd
+[2025-05-24 07:45:36.870000Z] [sala1] si: asd
+[2025-05-24 07:45:37.423000Z] [sala1] si: ads
+[2025-05-24 08:09:32.934000Z] nico ingresó a la sala sala1
+[2025-05-24 08:09:32.941000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:09:32.942000Z] No hay clientes en la sala sala1
+[2025-05-24 08:10:28.823000Z] nico ha salido de la sala sala1
+[2025-05-24 08:10:28.824000Z] nico ingresó a la sala sala2
+[2025-05-24 08:10:28.825000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 08:10:28.826000Z] No hay clientes en la sala sala2
+[2025-05-24 08:10:49.773000Z] lui ingresó a la sala sala2
+[2025-05-24 08:10:49.774000Z] [sala2] lui: lui ha ingresado a la sala
+[2025-05-24 08:10:50.966000Z] [sala2] lui: sda
+[2025-05-24 08:10:51.400000Z] [sala2] lui: ads
+[2025-05-24 08:10:51.863000Z] [sala2] lui: dsa
+[2025-05-24 08:18:34.075000Z] nico ingresó a la sala sala1
+[2025-05-24 08:18:34.080000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:18:34.081000Z] No hay clientes en la sala sala1
+[2025-05-24 08:18:38.118000Z] nico ha salido de la sala 
+[2025-05-24 08:18:38.120000Z] nico ingresó a la sala sala1
+[2025-05-24 08:18:38.121000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:18:48.838000Z] nico ha salido de la sala sala1
+[2025-05-24 08:18:48.839000Z] nico ingresó a la sala sala2
+[2025-05-24 08:18:48.839000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 08:18:48.840000Z] No hay clientes en la sala sala2
+[2025-05-24 08:19:56.392000Z] nico ingresó a la sala sala1
+[2025-05-24 08:19:56.397000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:19:56.398000Z] No hay clientes en la sala sala1
+[2025-05-24 08:20:35.180000Z] nico ingresó a la sala sala1
+[2025-05-24 08:20:35.189000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:20:35.192000Z] No hay clientes en la sala sala1
+[2025-05-24 08:20:36.815000Z] [sala1] nico: asd
+[2025-05-24 08:20:38.266000Z] [sala1] nico: asd
+[2025-05-24 08:21:11.504000Z] nico ha salido de la sala sala1
+[2025-05-24 08:21:11.505000Z] nico ingresó a la sala sala2
+[2025-05-24 08:21:11.506000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 08:21:11.507000Z] No hay clientes en la sala sala2
+[2025-05-24 08:21:12.419000Z] [sala2] nico: asd
+[2025-05-24 08:21:12.973000Z] [sala2] nico: ads
+[2025-05-24 08:21:28.106000Z] nico ha salido de la sala sala2
+[2025-05-24 08:21:28.107000Z] nico ingresó a la sala sala3
+[2025-05-24 08:21:28.108000Z] [sala3] nico: nico ha ingresado a la sala
+[2025-05-24 08:21:28.108000Z] No hay clientes en la sala sala3
+[2025-05-24 08:21:30.810000Z] [sala3] nico: asd
+[2025-05-24 08:21:31.263000Z] [sala3] nico: ads
+[2025-05-24 08:26:27.197000Z] nico ingresó a la sala sala1
+[2025-05-24 08:26:27.203000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:26:27.204000Z] No hay clientes en la sala sala1
+[2025-05-24 08:26:29.616000Z] [sala1] nico: asd
+[2025-05-24 08:26:31.586000Z] [sala1] nico: nico ha salido de la sala
+[2025-05-24 08:26:31.586000Z] No hay clientes en la sala sala1
+[2025-05-24 08:26:36.182000Z] nico ingresó a la sala sala1
+[2025-05-24 08:26:36.183000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:26:36.183000Z] No hay clientes en la sala sala1
+[2025-05-24 08:26:41.206000Z] [sala1] nico: 123
+[2025-05-24 08:26:49.557000Z] [sala1] nico: asd
+[2025-05-24 08:26:50.347000Z] [sala1] nico: ads
+[2025-05-24 08:28:31.050000Z] lui ingresó a la sala sala1
+[2025-05-24 08:28:31.050000Z] [sala1] lui: lui ha ingresado a la sala
+[2025-05-24 08:28:32.376000Z] [sala1] lui: asd
+[2025-05-24 08:28:32.900000Z] [sala1] lui: sad
+[2025-05-24 08:28:33.260000Z] [sala1] lui: asd
+[2025-05-24 08:28:40.384000Z] [sala1] lui: asd
+[2025-05-24 08:28:40.747000Z] [sala1] lui: sd
+[2025-05-24 08:35:43.890000Z] 123 ingresó a la sala sala1
+[2025-05-24 08:35:43.891000Z] [sala1] 123: 123 ha ingresado a la sala
+[2025-05-24 08:36:27.010000Z] 4321 ingresó a la sala sala1
+[2025-05-24 08:36:27.010000Z] [sala1] 4321: 4321 ha ingresado a la sala
+[2025-05-24 08:36:43.763000Z] 1 ingresó a la sala sala1
+[2025-05-24 08:36:43.763000Z] [sala1] 1: 1 ha ingresado a la sala
+[2025-05-24 08:36:58.558000Z] nico ha salido de la sala sala1
+[2025-05-24 08:36:58.558000Z] nico ingresó a la sala sala2
+[2025-05-24 08:36:58.559000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 08:36:58.560000Z] No hay clientes en la sala sala2
+[2025-05-24 08:37:06.212000Z] 1 ha salido de la sala sala1
+[2025-05-24 08:37:06.213000Z] 1 ingresó a la sala sala2
+[2025-05-24 08:37:06.214000Z] [sala2] 1: 1 ha ingresado a la sala
+[2025-05-24 08:37:06.962000Z] [sala2] 1: sad
+[2025-05-24 08:37:07.329000Z] [sala2] 1: asd
+[2025-05-24 08:37:07.587000Z] [sala2] 1: sad
+[2025-05-24 08:37:09.567000Z] [sala1] 4321: 
+[2025-05-24 08:37:10.194000Z] [sala1] 4321: sada
+[2025-05-24 08:37:10.362000Z] [sala1] 4321: d
+[2025-05-24 08:37:10.504000Z] [sala1] 4321: a
+[2025-05-24 08:37:11.071000Z] [sala1] 4321: aads
+[2025-05-24 08:37:11.496000Z] [sala1] 4321: 
+[2025-05-24 08:37:13.144000Z] [sala1] 123: 
+[2025-05-24 08:37:13.342000Z] [sala1] 123: asd
+[2025-05-24 08:37:13.480000Z] [sala1] 123: a
+[2025-05-24 08:37:13.821000Z] [sala1] 123: 
+[2025-05-24 08:40:16.829000Z]  ingresó a la sala sala1
+[2025-05-24 08:40:16.829000Z] [sala1] :  ha ingresado a la sala
+[2025-05-24 08:51:31.560000Z] nico ingresó a la sala sala1
+[2025-05-24 08:51:31.566000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 08:51:31.566000Z] No hay clientes en la sala sala1
+[2025-05-24 08:52:16.844000Z] 123 ingresó a la sala sala1
+[2025-05-24 08:52:16.844000Z] [sala1] 123: 123 ha ingresado a la sala
+[2025-05-24 09:07:12.536000Z] nico ingresó a la sala sala1
+[2025-05-24 09:07:12.542000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 09:07:12.543000Z] No hay clientes en la sala sala1
+[2025-05-24 09:10:12.486000Z] nico ha salido de la sala sala1
+[2025-05-24 09:10:12.486000Z] nico ingresó a la sala lobby
+[2025-05-24 09:10:12.487000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 09:10:12.488000Z] No hay clientes en la sala lobby
+[2025-05-24 09:10:32.106000Z] nico ha salido de la sala lobby
+[2025-05-24 09:10:32.107000Z] nico ingresó a la sala sala1
+[2025-05-24 09:10:32.108000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 09:10:32.108000Z] No hay clientes en la sala sala1
+[2025-05-24 09:10:37.353000Z] [sala1] nico: nico ha salido de la sala
+[2025-05-24 09:10:37.354000Z] No hay clientes en la sala sala1
+[2025-05-24 09:10:37.355000Z] nico ingresó a la sala lobby
+[2025-05-24 09:10:37.356000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 09:10:37.357000Z] No hay clientes en la sala lobby
+[2025-05-24 09:10:45.985000Z] [sala1] nico: sda
+[2025-05-24 09:10:45.986000Z] No hay clientes en la sala sala1
+[2025-05-24 09:10:46.944000Z] [sala1] nico: asd
+[2025-05-24 09:10:46.945000Z] No hay clientes en la sala sala1
+[2025-05-24 09:16:59.527000Z] [lobby] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:16:59.556000Z] No hay clientes en la sala lobby
+[2025-05-24 09:17:09.218000Z] [sala1] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:17:09.219000Z] No hay clientes en la sala sala1
+[2025-05-24 09:17:59.962000Z] Creando sala sala1 por nico
+[2025-05-24 09:18:05.631000Z] nico ha salido de la sala 
+[2025-05-24 09:18:05.632000Z] nico ingresó a la sala sala1
+[2025-05-24 09:18:05.633000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 09:18:06.620000Z] [sala1] nico: asd
+[2025-05-24 09:18:07.065000Z] [sala1] nico: asd
+[2025-05-24 09:18:07.792000Z] [sala1] nico: asd
+[2025-05-24 09:21:16.131000Z] Creando sala lobby por nico
+[2025-05-24 09:21:16.133000Z] nico ha salido de la sala sala1
+[2025-05-24 09:21:16.133000Z] nico ingresó a la sala lobby
+[2025-05-24 09:21:16.134000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 09:21:43.542000Z] Creando sala lobby por 123
+[2025-05-24 09:21:43.543000Z] 123 ha salido de la sala 
+[2025-05-24 09:21:43.544000Z] 123 ingresó a la sala lobby
+[2025-05-24 09:21:43.544000Z] [lobby] 123: 123 ha ingresado a la sala
+[2025-05-24 09:21:47.608000Z] [lobby] 123: asd
+[2025-05-24 09:21:48.483000Z] [lobby] 123: sad
+[2025-05-24 09:21:49.425000Z] [lobby] 123: asd
+[2025-05-24 09:21:51.318000Z] [lobby] 123: /salir
+[2025-05-24 09:21:53.821000Z] [lobby] 123: 123 ha salido de la sala
+[2025-05-24 09:21:53.822000Z] 123 ingresó a la sala lobby
+[2025-05-24 09:21:53.823000Z] [lobby] 123: 123 ha ingresado a la sala
+[2025-05-24 09:22:01.985000Z] [sala1] 123: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:22:01.986000Z] No hay clientes en la sala sala1
+[2025-05-24 09:22:44.872000Z] [lobby] nico: asd
+[2025-05-24 09:22:45.845000Z] [lobby] nico: sad
+[2025-05-24 09:22:46.339000Z] [lobby] nico: sda
+[2025-05-24 09:22:47.248000Z] [lobby] nico: asd
+[2025-05-24 09:22:51.030000Z] [lobby] nico: asd
+[2025-05-24 09:22:51.375000Z] [lobby] nico: sad
+[2025-05-24 09:22:57.957000Z] [sala1] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:22:57.958000Z] No hay clientes en la sala sala1
+[2025-05-24 09:23:07.505000Z] Creando sala sala1 por nico
+[2025-05-24 09:23:12.870000Z] nico ha salido de la sala lobby
+[2025-05-24 09:23:12.871000Z] nico ingresó a la sala sala1
+[2025-05-24 09:23:12.872000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 09:23:14.214000Z] [sala1] nico: asd
+[2025-05-24 09:23:14.607000Z] [sala1] nico: asd
+[2025-05-24 09:23:14.955000Z] [sala1] nico: sad
+[2025-05-24 09:23:15.926000Z] [sala1] nico: asd
+[2025-05-24 09:23:18.729000Z] [sala1] 123: asd
+[2025-05-24 09:23:18.949000Z] [sala1] 123: ad
+[2025-05-24 09:23:19.115000Z] [sala1] 123: ad
+[2025-05-24 09:23:19.609000Z] [sala1] 123: aa
+[2025-05-24 09:23:19.868000Z] [sala1] 123: sad
+[2025-05-24 09:23:20.142000Z] [sala1] 123: sad
+[2025-05-24 09:23:20.547000Z] [sala1] 123: ad
+[2025-05-24 09:23:50.529000Z] Creando sala lobby por nico
+[2025-05-24 09:23:50.538000Z] nico ha salido de la sala 
+[2025-05-24 09:23:50.539000Z] nico ingresó a la sala lobby
+[2025-05-24 09:23:50.539000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 09:34:43.474000Z] Creando sala lobby por nico
+[2025-05-24 09:34:43.489000Z] nico ha salido de la sala 
+[2025-05-24 09:34:43.489000Z] nico ingresó a la sala lobby
+[2025-05-24 09:34:43.490000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 09:35:27.534000Z] [sala2] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:35:27.535000Z] No hay clientes en la sala sala2
+[2025-05-24 09:35:38.879000Z] Creando sala sala2 por nico
+[2025-05-24 09:35:43.020000Z] nico ha salido de la sala lobby
+[2025-05-24 09:35:43.021000Z] nico ingresó a la sala sala2
+[2025-05-24 09:35:43.021000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 09:35:44.512000Z] [sala2] nico: sad
+[2025-05-24 09:35:45.104000Z] [sala2] nico: asd
+[2025-05-24 09:35:45.526000Z] [sala2] nico: ads
+[2025-05-24 09:36:21.095000Z] Creando sala lobby por 123
+[2025-05-24 09:36:21.096000Z] 123 ha salido de la sala 
+[2025-05-24 09:36:21.097000Z] 123 ingresó a la sala lobby
+[2025-05-24 09:36:21.098000Z] [lobby] 123: 123 ha ingresado a la sala
+[2025-05-24 09:36:25.723000Z] 123 ha salido de la sala lobby
+[2025-05-24 09:36:25.723000Z] 123 ingresó a la sala sala2
+[2025-05-24 09:36:25.724000Z] [sala2] 123: 123 ha ingresado a la sala
+[2025-05-24 09:36:28.726000Z] [sala2] 123: /salir sala2
+[2025-05-24 09:36:32.675000Z] [sala2] 123: 123 ha salido de la sala
+[2025-05-24 09:36:32.677000Z] [lobby] 123: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:36:32.678000Z] No hay clientes en la sala lobby
+[2025-05-24 09:36:39.919000Z] 123 ingresó a la sala sala2
+[2025-05-24 09:36:39.919000Z] [sala2] 123: 123 ha ingresado a la sala
+[2025-05-24 09:36:50.981000Z] [sala2] nico: /salir
+[2025-05-24 09:36:54.987000Z] [sala2] nico: nico ha salido de la sala
+[2025-05-24 09:36:54.989000Z] [lobby] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:36:54.990000Z] No hay clientes en la sala lobby
+[2025-05-24 09:37:05.037000Z] [sala2] 123: sad
+[2025-05-24 09:37:05.890000Z] [sala2] 123: asd
+[2025-05-24 09:37:10.735000Z] nico ingresó a la sala sala2
+[2025-05-24 09:37:10.736000Z] [sala2] nico: nico ha ingresado a la sala
+[2025-05-24 09:37:12.220000Z] [sala2] nico: asd
+[2025-05-24 09:37:12.877000Z] [sala2] nico: asd
+[2025-05-24 09:37:13.473000Z] [sala2] nico: asd
+[2025-05-24 09:37:15.961000Z] [sala2] 123: sad
+[2025-05-24 09:37:16.408000Z] [sala2] 123: asd
+[2025-05-24 09:37:16.787000Z] [sala2] 123: sad
+[2025-05-24 09:37:21.318000Z] [sala2] 123: 123 ha salido de la sala
+[2025-05-24 09:37:21.319000Z] [lobby] 123: No se pudo ingresar. La sala no existe.
+[2025-05-24 09:37:21.320000Z] No hay clientes en la sala lobby
+[2025-05-24 09:37:24.858000Z] [sala2] nico: sda
+[2025-05-24 09:37:25.167000Z] [sala2] nico: sdas
+[2025-05-24 09:37:25.576000Z] [sala2] nico: dsadsa
+[2025-05-24 10:01:25.012000Z] Creando sala lobby por nico
+[2025-05-24 10:01:25.021000Z] nico ha salido de la sala 
+[2025-05-24 10:01:25.022000Z] nico ingresó a la sala lobby
+[2025-05-24 10:01:25.023000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 10:01:29.302000Z] [lobby] nico: asd
+[2025-05-24 10:01:38.039000Z] Creando sala lobby por 123
+[2025-05-24 10:01:38.041000Z] 123 ha salido de la sala 
+[2025-05-24 10:01:38.042000Z] 123 ingresó a la sala lobby
+[2025-05-24 10:01:38.042000Z] [lobby] 123: 123 ha ingresado a la sala
+[2025-05-24 10:01:39.438000Z] [lobby] 123: asd
+[2025-05-24 10:01:39.785000Z] [lobby] 123: ads
+[2025-05-24 10:21:53.645000Z] Creando sala lobby por nico
+[2025-05-24 10:21:53.663000Z] nico ha salido de la sala 
+[2025-05-24 10:21:53.666000Z] nico ingresó a la sala lobby
+[2025-05-24 10:21:53.670000Z] [lobby] nico: nico ha ingresado a la sala
+[2025-05-24 10:22:56.764000Z] Creando sala sala1 por nico
+[2025-05-24 10:23:02.399000Z] nico ha salido de la sala lobby
+[2025-05-24 10:23:02.401000Z] nico ingresó a la sala sala1
+[2025-05-24 10:23:02.402000Z] [sala1] nico: nico ha ingresado a la sala
+[2025-05-24 10:23:04.904000Z] [sala1] nico: /salir
+[2025-05-24 10:23:06.653000Z] [sala1] nico: nico ha salido de la sala
+[2025-05-24 10:23:06.653000Z] No hay clientes en la sala sala1
+[2025-05-24 10:23:06.655000Z] [lobby] nico: No se pudo ingresar. La sala no existe.
+[2025-05-24 10:23:06.655000Z] No hay clientes en la sala lobby
